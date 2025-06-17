@@ -1,6 +1,6 @@
-## 
+#
 
-Soy un estudiante de ingeniería informática
+Soy un estudiante de ingeniería informática  
 
 ##Tecnologías que uso
 
