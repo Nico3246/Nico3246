@@ -1,5 +1,5 @@
 #
-Soy estudiante de Ingeniería Informática
+Soy estudiante de Ingeniería Informática con interés en el desarrollo de software y el aprendizaje constante. Actualmente tengo mayor experiencia con Python y sigo explorando otras tecnologías como C++, JavaScript, Java y Node.js. Me gusta aplicar lo que aprendo en proyectos prácticos. Siempre busco mejorar mis habilidades y adquirir nuevas herramientas que me permitan crecer como desarrollador
 
 ---
 
@@ -19,10 +19,24 @@ Soy estudiante de Ingeniería Informática
 
 ## Proyectos destacados
 
-- **EDI_Practica2** – Proyecto académico con estructuras de datos dinámicas para gestionar servidores de juegos online.
-- **PracticaIA** – Resolución de laberintos mediante agentes no informados.
-- **IA_Practica** – Laberintos resueltos con agentes informados como A* e IDA*.
-- **IA_Practica3** – Juego del tres en raya contra dos IAs: Minimax y Poda Alfa-Beta.
+- **EDI_Practica2**  
+Proyecto académico que implementa estructuras de datos dinámicas para simular la gestión de servidores de videojuegos online. Se utilizan listas y colas para administrar usuarios, sesiones y partidas activas.
+Tecnologías: C++
+Enfoque: estructuras de datos, programación modular, lógica aplicada a entornos concurrentes.
+- **PracticaIA**  
+Aplicación en Python que resuelve laberintos mediante algoritmos de búsqueda (DFS y BFS). Permite visualizar el recorrido desde la entrada hasta la salida.
+Tecnologías: Python
+Enfoque: algoritmos de grafos, búsqueda, visualización de procesos.
+
+- **IA_Practica**  
+Implementación básica de técnicas de inteligencia artificial para resolver problemas de planeación y resolucion de laberintos. Incluye árboles de decisión y heurísticas.
+Tecnologías: Python
+Enfoque: fundamentos de IA, resolución de problemas, toma de decisiones automatizada.
+- **IA_Practica3**
+Implementación de un juego interactivo de 3 en raya (Tic-Tac-Toe) en el que el jugador humano compite contra una IA que utiliza algoritmos de decisión como Minimax y poda alfa-beta.
+Tecnologías: Python
+Enfoque: Diseño de árboles de decisión y algoritmos de búsqueda adversarial y comparación entre eficiencia de Minimax y poda alfa-beta.
+
 
 ---
 
