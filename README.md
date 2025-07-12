@@ -1,5 +1,3 @@
-# Nicolás - Estudiante de Ingeniería informatica
-
 ![Banner](./Imagen.jpg)
 
 Soy estudiante de Ingeniería Informática con interés en el desarrollo de software y el aprendizaje constante. Actualmente tengo mayor experiencia con Python y sigo explorando otras tecnologías como C++, JavaScript, Java y Node.js. Me gusta aplicar lo que aprendo en proyectos prácticos. Siempre busco mejorar mis habilidades y adquirir nuevas herramientas que me permitan crecer como desarrollador
