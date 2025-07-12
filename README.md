@@ -88,9 +88,6 @@ Enfoque: Diseño de árboles de decisión y algoritmos de búsqueda adversarial 
 
 ---  
 
-## Contacto
--Email: nicobs3436@gmail.com
-
 ---
 
 ## Portafolio
