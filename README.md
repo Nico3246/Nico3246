@@ -24,14 +24,14 @@ Siempre busco mejorar mis habilidades y adquirir nuevas herramientas que me perm
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### Backend & Cloud
+### Backend y Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### IA & Visión por Computador
+### IA y Visión por Computador
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Caffe](https://img.shields.io/badge/Caffe-FF6F00?style=for-the-badge&logo=apachecassandra&logoColor=white)
 ![dlib](https://img.shields.io/badge/dlib-000000?style=for-the-badge&logo=vectorworks&logoColor=white)
@@ -45,7 +45,38 @@ Siempre busco mejorar mis habilidades y adquirir nuevas herramientas que me perm
 ---
 
 ## Conocimientos adicionales
-C · C# · Slate.js · Yjs · Socket.IO · MongoDB · SQL · JWT · PyAutoGUI · Pyttsx3 · SpeechRecognition · PyPDF2 · tkinter · etc.
+
+### Frameworks y librerías
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Yjs](https://img.shields.io/badge/Yjs-4DA9FF?style=for-the-badge)
+![Slate.js](https://img.shields.io/badge/Slate.js-3E4E88?style=for-the-badge)
+![imutils](https://img.shields.io/badge/imutils-FF6F00?style=for-the-badge)
+
+### Bases de datos
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Autenticación
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### Voz y automatización
+![SpeechRecognition](https://img.shields.io/badge/SpeechRecognition-FF6F00?style=for-the-badge&logo=googleassistant&logoColor=white)
+![pyttsx3](https://img.shields.io/badge/pyttsx3-TTS-3776AB?style=for-the-badge)
+![pyautogui](https://img.shields.io/badge/pyautogui-Automation-000000?style=for-the-badge)
+![keyboard](https://img.shields.io/badge/keyboard-Input-000000?style=for-the-badge)
+![pycaw](https://img.shields.io/badge/pycaw-Volume-326CE5?style=for-the-badge)
+![psutil](https://img.shields.io/badge/psutil-Processes-FF6F00?style=for-the-badge)
+![PyPDF2](https://img.shields.io/badge/PyPDF2-PDF-02569B?style=for-the-badge)
+![tkinter](https://img.shields.io/badge/Tkinter-GUI-FF6F00?style=for-the-badge)
+![pywhatkit](https://img.shields.io/badge/pywhatkit-Utilities-3776AB?style=for-the-badge)
+
+### Deploy
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+### Control de versiones
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -71,7 +102,7 @@ C · C# · Slate.js · Yjs · Socket.IO · MongoDB · SQL · JWT · PyAutoGUI ·
 
 ---
 
-## 📊 Estadísticas
+## Estadísticas
 
 ![Nico3246's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nico3246&show_icons=true&theme=default)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nico3246&layout=compact)
