@@ -1,6 +1,6 @@
 ![Banner](./Imagen.jpg)
 
-## 🌐 Language
+
 [Español](#sobre-mí) | [English](#about-me)
 
 ---
