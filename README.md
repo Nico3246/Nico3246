@@ -5,7 +5,6 @@
 
 ---
 
-## Versión en español
 
 ## Sobre mí
 Estudiante de Ingeniería Informática con interés en el desarrollo de software y el aprendizaje constante.  
@@ -116,7 +115,7 @@ Siempre busco mejorar mis habilidades y adquirir nuevas herramientas que me perm
 
 ---
 
-## English version
+
 
 ## About me
 Computer Engineering student interested in software development and continuous learning.  
