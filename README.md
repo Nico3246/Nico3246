@@ -59,7 +59,7 @@ My current focus is on building increasingly complete and maintainable applicati
 
 ## Selected Projects
 
-### [Convivio](https://github.com/Nico3246/Convivio)
+### [Convivio](https://github.com/Nicobs3436/Convivio)
 
 Android application designed to manage shared living through a structured system of users, roles, permissions, and business rules.
 
@@ -71,7 +71,7 @@ The project has been tested on real Android devices and includes automated testi
 
 ---
 
-### [Zenith](https://github.com/Nico3246/Zenith)
+### [Zenith](https://github.com/Nicobs3436/Zenith)
 
 Training management platform for creating workout routines, recording sessions, analysing progression, and generating reviewable AI-assisted recommendations.
 
@@ -83,7 +83,7 @@ The AI functionality is designed as an assistance layer: recommendations and rou
 
 ---
 
-### [Facial Recognition](https://github.com/Nico3246/reconocimiento_facial)
+### [Facial Recognition](https://github.com/Nicobs3436/reconocimiento_facial)
 
 Real-time facial recognition system developed in Python.
 
@@ -93,7 +93,7 @@ The system detects faces using an SSD model, generates 128-dimensional facial em
 
 ---
 
-### [Chess with Alpha-Beta AI](https://github.com/Nico3246/Ajedrez)
+### [Chess with Alpha-Beta AI](https://github.com/Nicobs3436/Ajedrez)
 
 Chess implementation developed with custom board logic, move validation, game-state management, heuristic position evaluation, and an artificial intelligence opponent based on Minimax with alpha-beta pruning.
 
@@ -107,7 +107,7 @@ The project also contains unit and integration tests covering core game logic an
 
 Selected university projects covering different areas of Computer Engineering.
 
-### [DDSI — Gym Management](https://github.com/Nico3246/DDSI-Gestion-Gimnasio)
+### [DDSI — Gym Management](https://github.com/Nicobs3436/DDSI-Gestion-Gimnasio)
 
 Java desktop application for managing members, instructors, and activities in a gym.
 
@@ -115,7 +115,7 @@ The project applies persistence, relational databases, graphical interfaces, DAO
 
 **Technologies:** Java · Swing · Hibernate/JPA · MariaDB · Maven
 
-### [EDI — Game Server Manager](https://github.com/Nico3246/EDI_Practica2_Gestor_Servidores)
+### [EDI — Game Server Manager](https://github.com/Nicobs3436/EDI_Practica2_Gestor_Servidores)
 
 C++ project focused on the implementation of dynamic data structures in a multiplayer game-server management system.
 
@@ -123,7 +123,7 @@ It includes dynamic lists, circular queues, linked structures, manual memory man
 
 **Technologies:** C++ · Dynamic Memory · Linked Structures · Queues
 
-### [AI — Maze Search Algorithms](https://github.com/Nico3246/IA_Practica2_Busqueda_Laberintos)
+### [AI — Maze Search Algorithms](https://github.com/Nicobs3436/IA_Practica2_Busqueda_Laberintos)
 
 Python implementation and comparison of several artificial intelligence search strategies applied to maze solving.
 
@@ -131,7 +131,7 @@ The project includes uninformed and informed search techniques such as BFS, DFS,
 
 **Technologies:** Python · Search Algorithms · Heuristics · A* · IDA*
 
-### [AI — Minimax & Alpha-Beta](https://github.com/Nico3246/IA_Practica3_TresEnRaya_Minimax_AlfaBeta)
+### [AI — Minimax & Alpha-Beta](https://github.com/Nicobs3436/IA_Practica3_TresEnRaya_Minimax_AlfaBeta)
 
 Adversarial-search project based on Tic-Tac-Toe, developed to study and compare Minimax and alpha-beta pruning.
 
@@ -139,7 +139,7 @@ The implementation includes human and AI players, AI-vs-AI simulations, explored
 
 **Technologies:** Python · Minimax · Alpha-Beta Pruning · Adversarial Search
 
-### [Java Design Patterns](https://github.com/Nico3246/Patrones-de-Diseno-Java)
+### [Java Design Patterns](https://github.com/Nicobs3436/Patrones-de-Diseno-Java)
 
 Repository dedicated to the practical study of software design patterns through Java implementations and examples.
 
