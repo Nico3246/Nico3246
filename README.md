@@ -208,11 +208,11 @@ I am always looking to improve my skills and acquire new tools that help me grow
 
 ## Featured projects
 
-- **Creative Challenges Social Network** (Flutter + Firebase)  
-  Mobile app with multimedia posts, gamification, notifications, and community feed.
+- **[Convivio](https://github.com/Nico3246/Convivio)** (React Native + Expo + TypeScript + Supabase)  
+  Mobile app for shared-living management, including rules, incidents and complaints, calendar, tasks, expenses, inventories, weekly reports, and role-based control.
 
-- **Gym App** (React Native + Expo + TypeScript)  
-  Cross-platform mobile app focused on managing training routines.
+- **[Zenith](https://github.com/Nico3246/Zenith)** (React Native + Expo + FastAPI + Python)  
+  Workout tracking platform with routines, sessions, history, progression statistics, and a reviewable AI coach.
 
 - **Voice Assistant in Python**  
   Voice recognition, text-to-speech, system control (open/close apps, windows, volume, productivity).
