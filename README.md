@@ -1,4 +1,4 @@
-![Banner](./Imagen.jpg)
+![Banner](./Imagen.svg)
 
 # Nicolás
 
