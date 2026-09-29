@@ -8,7 +8,7 @@
 
 Estudiante de **Ingeniería Informática** con interés en el desarrollo de software y el aprendizaje continuo.
 
-Tengo mayor experiencia con **Python**, aunque también he trabajado con **Java, TypeScript, JavaScript, C++, C, C#, Dart** y otras tecnologías. Me interesa aplicar estos conocimientos en proyectos prácticos relacionados con aplicaciones móviles, automatización, inteligencia artificial, visión por computador y desarrollo de videojuegos.
+Tengo mayor experiencia con **Python**, aunque también he trabajado con **Java, TypeScript, JavaScript, C++, C, C#, y otras tecnologías. Me interesa aplicar estos conocimientos en proyectos prácticos relacionados con aplicaciones móviles, automatización, inteligencia artificial, visión por computador y desarrollo de videojuegos.
 
 Mi objetivo es seguir ampliando mis conocimientos técnicos y mejorar progresivamente la calidad, estructura y solidez de los proyectos que desarrollo.
 
