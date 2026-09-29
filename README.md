@@ -1,234 +1,141 @@
 ![Banner](./Imagen.jpg)
 
+# Hola, soy Nico 👋
 
-[Español](#sobre-mí) | [English](#about-me)
+Estudiante de **Ingeniería Informática** con interés en el desarrollo de software y el aprendizaje continuo.
 
----
+Tengo mayor experiencia con **Python**, aunque también he trabajado con **Java, TypeScript, JavaScript, C, C++, C#, Dart** y otras tecnologías. Me gusta aplicar lo que aprendo en proyectos prácticos, especialmente en aplicaciones móviles, automatización, inteligencia artificial, visión por computador y videojuegos.
 
-## Sobre mí
-Estudiante de Ingeniería Informática con interés en el desarrollo de software y el aprendizaje constante.  
-Tengo mayor experiencia con **Python**, pero también he trabajado con **C++**, **C**, **C#**, **JavaScript**, **TypeScript**, **Dart**, **Java** y otros lenguajes.  
-Me gusta aplicar lo que aprendo en proyectos prácticos: desde aplicaciones móviles y sistemas de visión por computador, hasta asistentes de voz y videojuegos.  
-
-Siempre busco mejorar mis habilidades y adquirir nuevas herramientas que me permitan crecer como desarrollador.
+Busco seguir mejorando mis habilidades, aprender nuevas herramientas y construir proyectos cada vez más completos y sólidos.
 
 ---
 
-## Tecnologías principales
+## 🚀 Proyectos destacados
+
+### 🏠 [Convivio](https://github.com/Nico3246/Convivio)
+
+Aplicación Android para gestionar la convivencia entre dos residentes y un controlador externo.
+
+**Tecnologías:** React Native · Expo · TypeScript · Supabase · PostgreSQL
+
+Incluye gestión de normas, faltas y quejas, calendario, tareas, gastos, inventarios, informes semanales, autenticación con Google y control de permisos por roles.
+
+---
+
+### 🏋️ [Zenith](https://github.com/Nico3246/Zenith)
+
+Plataforma para gestionar rutinas de gimnasio, registrar sesiones y analizar la progresión del entrenamiento.
+
+**Tecnologías:** Python · FastAPI · PostgreSQL · React Native · Expo · TypeScript
+
+Incluye historial de entrenamientos, estadísticas, estimación de progresión y un entrenador IA con propuestas revisables antes de aplicar cambios.
+
+---
+
+### 👤 [Reconocimiento facial](https://github.com/Nico3246/reconocimiento_facial)
+
+Proyecto de visión por computador para detección y reconocimiento facial en imágenes, vídeo y cámara en tiempo real.
+
+**Tecnologías:** Python · OpenCV · dlib · Caffe · scikit-learn
+
+---
+
+### 🎙️ [Asistente de voz](https://github.com/Nico3246/asistente)
+
+Asistente desarrollado en Python capaz de reconocer comandos de voz y ejecutar distintas acciones sobre el sistema.
+
+**Tecnologías:** Python · SpeechRecognition · pyttsx3 · PyAutoGUI · pycaw · psutil
+
+---
+
+### ♟️ [Ajedrez](https://github.com/Nico3246/Ajedrez)
+
+Implementación de ajedrez en Python con lógica propia de tablero y modo de juego contra IA mediante búsqueda Minimax con poda alfa-beta.
+
+**Tecnologías:** Python · Minimax · Alpha-Beta Pruning · pytest
+
+---
+
+### 🎓 [DDSI · Gestión de gimnasio](https://github.com/Nico3246/DDSI-Gestion-Gimnasio)
+
+Versión final de una práctica universitaria de Diseño y Desarrollo de Sistemas de Información orientada a la gestión de un gimnasio.
+
+**Tecnologías:** Java · Swing · Hibernate · JPA · MariaDB · Maven
+
+---
+
+## 🧰 Tecnologías
 
 ### Lenguajes
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-### Backend y Cloud
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+### Desarrollo
 
-### Desarrollo móvil
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-### Bases de datos
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Datos, cloud y herramientas
 
-### IA y Visión por Computador
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Caffe](https://img.shields.io/badge/Caffe-FF6F00?style=for-the-badge&logo=apachecassandra&logoColor=white)
-![dlib](https://img.shields.io/badge/dlib-000000?style=for-the-badge&logo=vectorworks&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### Videojuegos
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Blueprints](https://img.shields.io/badge/Blueprints-1E90FF?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+### IA, visión y desarrollo de videojuegos
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 ---
 
-## Conocimientos adicionales
+## 🎓 Proyectos académicos
 
-### Frameworks y librerías
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Yjs](https://img.shields.io/badge/Yjs-4DA9FF?style=for-the-badge)
-![Slate.js](https://img.shields.io/badge/Slate.js-3E4E88?style=for-the-badge)
-![imutils](https://img.shields.io/badge/imutils-FF6F00?style=for-the-badge)
+Además de mis proyectos personales, utilizo GitHub para conservar prácticas universitarias relacionadas con:
 
-### Autenticación
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+- algoritmos de búsqueda y heurísticas;
+- Minimax y poda alfa-beta;
+- programación orientada a objetos;
+- patrones de diseño;
+- bases de datos y persistencia;
+- desarrollo de interfaces y aplicaciones Java.
 
-### Voz y automatización
-![SpeechRecognition](https://img.shields.io/badge/SpeechRecognition-FF6F00?style=for-the-badge&logo=googleassistant&logoColor=white)
-![pyttsx3](https://img.shields.io/badge/pyttsx3-TTS-3776AB?style=for-the-badge)
-![pyautogui](https://img.shields.io/badge/pyautogui-Automation-000000?style=for-the-badge)
-![keyboard](https://img.shields.io/badge/keyboard-Input-000000?style=for-the-badge)
-![pycaw](https://img.shields.io/badge/pycaw-Volume-326CE5?style=for-the-badge)
-![psutil](https://img.shields.io/badge/psutil-Processes-FF6F00?style=for-the-badge)
-![PyPDF2](https://img.shields.io/badge/PyPDF2-PDF-02569B?style=for-the-badge)
-![tkinter](https://img.shields.io/badge/Tkinter-GUI-FF6F00?style=for-the-badge)
-![pywhatkit](https://img.shields.io/badge/pywhatkit-Utilities-3776AB?style=for-the-badge)
-
-### Deploy
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-### Control de versiones
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Los repositorios académicos se identifican como tales en su documentación.
 
 ---
 
-## Proyectos destacados
+## 📊 GitHub
 
-- **[Convivio](https://github.com/Nico3246/Convivio)** (React Native + Expo + TypeScript + Supabase)  
-  Aplicación móvil para gestionar la convivencia entre residentes: normas, faltas y quejas, calendario, tareas, gastos, inventarios e informes semanales con control por roles.
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Nico3246&show_icons=true&hide_border=true)
 
-- **[Zenith](https://github.com/Nico3246/Zenith)** (React Native + Expo + FastAPI + Python)  
-  Plataforma de seguimiento de entrenamiento con rutinas, sesiones, historial, estadísticas de progresión y entrenador IA revisable.
-
-- **Asistente de voz en Python**  
-  Reconocimiento de voz, síntesis de voz, control del sistema (abrir/cerrar apps, ventanas, volumen, productividad).
-
-- **Reconocimiento facial** (Python + OpenCV + dlib + Caffe)  
-  Sistema de detección y reconocimiento de rostros en imágenes, video y cámara en tiempo real.
-
-- **Juego de terror en desarrollo** (Unreal Engine + C++)  
-  Programación de mecánicas, IA y narrativa interactiva.
-
-- **Prácticas académicas de IA** (Python)  
-  Algoritmos de búsqueda, heurísticas, Minimax con poda alfa-beta aplicados a juegos y problemas de grafos.
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Nico3246&layout=compact&hide_border=true)
 
 ---
 
-## Estadísticas
+<details>
+<summary><strong>English</strong></summary>
 
-![Nico3246's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nico3246&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nico3246&layout=compact)
+### About me
 
----
+Computer Engineering student interested in software development and continuous learning.
 
-## About me
-Computer Engineering student interested in software development and continuous learning.  
-My strongest experience is with **Python**, but I have also worked with **C++**, **C**, **C#**, **JavaScript**, **TypeScript**, **Dart**, **Java**, and other languages.  
-I enjoy applying what I learn in practical projects: from mobile apps and computer vision systems to voice assistants and videogames.  
+My strongest experience is with **Python**, although I have also worked with **Java, TypeScript, JavaScript, C, C++, C#, Dart**, and other technologies. I enjoy applying what I learn through practical projects, particularly mobile applications, automation, artificial intelligence, computer vision, and game development.
 
-I am always looking to improve my skills and acquire new tools that help me grow as a developer.
+My main public projects include **Convivio**, **Zenith**, a facial recognition system, a Python voice assistant, and several academic projects focused on algorithms, AI, Java, databases, and software design.
 
----
-
-## Main technologies
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend and Cloud
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### Mobile development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### AI and Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Caffe](https://img.shields.io/badge/Caffe-FF6F00?style=for-the-badge&logo=apachecassandra&logoColor=white)
-![dlib](https://img.shields.io/badge/dlib-000000?style=for-the-badge&logo=vectorworks&logoColor=white)
-
-### Game development
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Blueprints](https://img.shields.io/badge/Blueprints-1E90FF?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
----
-
-## Additional knowledge
-
-### Frameworks and libraries
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Yjs](https://img.shields.io/badge/Yjs-4DA9FF?style=for-the-badge)
-![Slate.js](https://img.shields.io/badge/Slate.js-3E4E88?style=for-the-badge)
-![imutils](https://img.shields.io/badge/imutils-FF6F00?style=for-the-badge)
-
-### Authentication
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### Voice and automation
-![SpeechRecognition](https://img.shields.io/badge/SpeechRecognition-FF6F00?style=for-the-badge&logo=googleassistant&logoColor=white)
-![pyttsx3](https://img.shields.io/badge/pyttsx3-TTS-3776AB?style=for-the-badge)
-![pyautogui](https://img.shields.io/badge/pyautogui-Automation-000000?style=for-the-badge)
-![keyboard](https://img.shields.io/badge/keyboard-Input-000000?style=for-the-badge)
-![pycaw](https://img.shields.io/badge/pycaw-Volume-326CE5?style=for-the-badge)
-![psutil](https://img.shields.io/badge/psutil-Processes-FF6F00?style=for-the-badge)
-![PyPDF2](https://img.shields.io/badge/PyPDF2-PDF-02569B?style=for-the-badge)
-![tkinter](https://img.shields.io/badge/Tkinter-GUI-FF6F00?style=for-the-badge)
-![pywhatkit](https://img.shields.io/badge/pywhatkit-Utilities-3776AB?style=for-the-badge)
-
-### Deploy
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-### Version control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## Featured projects
-
-- **[Convivio](https://github.com/Nico3246/Convivio)** (React Native + Expo + TypeScript + Supabase)  
-  Mobile app for shared-living management, including rules, incidents and complaints, calendar, tasks, expenses, inventories, weekly reports, and role-based control.
-
-- **[Zenith](https://github.com/Nico3246/Zenith)** (React Native + Expo + FastAPI + Python)  
-  Workout tracking platform with routines, sessions, history, progression statistics, and a reviewable AI coach.
-
-- **Voice Assistant in Python**  
-  Voice recognition, text-to-speech, system control (open/close apps, windows, volume, productivity).
-
-- **Facial Recognition System** (Python + OpenCV + dlib + Caffe)  
-  Real-time face detection and recognition in images, videos, and webcam streams.
-
-- **Horror Game in Development** (Unreal Engine + C++)  
-  Gameplay programming, AI, and interactive narrative.
-
-- **AI Academic Practices** (Python)  
-  Search algorithms, heuristics, Minimax with alpha-beta pruning applied to games and graph problems.
-
----
-
-## GitHub stats
-
-![Nico3246's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nico3246&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api
+</details>
