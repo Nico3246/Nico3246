@@ -1,7 +1,5 @@
 ![Banner](./Imagen.svg)
 
-# Nicolás
-
 **Computer Engineering Student**
 
 I am a Computer Engineering student focused on software development, with most of my experience in **Python, Java, and C++**.
